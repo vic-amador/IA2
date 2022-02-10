@@ -1,2 +1,3 @@
 # IA2
-Practicas de la clase de inteligencia artificial II
+
+Los archivos y el codigo se encuentran en el branch master
